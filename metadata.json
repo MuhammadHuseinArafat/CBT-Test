@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Zenith CBT - Offline Exam System",
+  "description": "A high-performance Computer-Based Testing application designed for offline reliability with seamless synchronization, featuring a modern UI with aesthetic motifs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
